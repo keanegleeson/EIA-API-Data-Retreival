@@ -1,2 +1,2 @@
-# EIA_Gen_All_By_Fuel_Type_By_State
+# EIA-API-Data-Retreival
 python script that gets EIA data and stores it locally
